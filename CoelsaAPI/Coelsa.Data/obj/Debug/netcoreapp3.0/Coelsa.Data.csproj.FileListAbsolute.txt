@@ -1,0 +1,8 @@
+C:\Users\ixwk\Desktop\plataforma\propuestas\sms_sudamericana\CoelsaAPI\Coelsa.Data\bin\Debug\netcoreapp3.0\Coelsa.Data.deps.json
+C:\Users\ixwk\Desktop\plataforma\propuestas\sms_sudamericana\CoelsaAPI\Coelsa.Data\bin\Debug\netcoreapp3.0\Coelsa.Data.dll
+C:\Users\ixwk\Desktop\plataforma\propuestas\sms_sudamericana\CoelsaAPI\Coelsa.Data\bin\Debug\netcoreapp3.0\Coelsa.Data.pdb
+C:\Users\ixwk\Desktop\plataforma\propuestas\sms_sudamericana\CoelsaAPI\Coelsa.Data\obj\Debug\netcoreapp3.0\Coelsa.Data.csprojAssemblyReference.cache
+C:\Users\ixwk\Desktop\plataforma\propuestas\sms_sudamericana\CoelsaAPI\Coelsa.Data\obj\Debug\netcoreapp3.0\Coelsa.Data.AssemblyInfoInputs.cache
+C:\Users\ixwk\Desktop\plataforma\propuestas\sms_sudamericana\CoelsaAPI\Coelsa.Data\obj\Debug\netcoreapp3.0\Coelsa.Data.AssemblyInfo.cs
+C:\Users\ixwk\Desktop\plataforma\propuestas\sms_sudamericana\CoelsaAPI\Coelsa.Data\obj\Debug\netcoreapp3.0\Coelsa.Data.dll
+C:\Users\ixwk\Desktop\plataforma\propuestas\sms_sudamericana\CoelsaAPI\Coelsa.Data\obj\Debug\netcoreapp3.0\Coelsa.Data.pdb

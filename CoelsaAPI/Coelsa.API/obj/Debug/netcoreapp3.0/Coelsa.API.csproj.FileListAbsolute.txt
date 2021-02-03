@@ -116,4 +116,9 @@ C:\Users\ixwk\Desktop\plataforma\propuestas\sms_sudamericana\CoelsaAPI\Coelsa.AP
 C:\Users\ixwk\Desktop\plataforma\propuestas\sms_sudamericana\CoelsaAPI\Coelsa.API\obj\Debug\netcoreapp3.0\Coelsa.API.csproj.CopyComplete
 C:\Users\ixwk\Desktop\plataforma\propuestas\sms_sudamericana\CoelsaAPI\Coelsa.API\obj\Debug\netcoreapp3.0\Coelsa.API.dll
 C:\Users\ixwk\Desktop\plataforma\propuestas\sms_sudamericana\CoelsaAPI\Coelsa.API\obj\Debug\netcoreapp3.0\Coelsa.API.pdb
+C:\Users\ixwk\Desktop\plataforma\propuestas\sms_sudamericana\CoelsaAPI\Coelsa.API\bin\Debug\netcoreapp3.0\Microsoft.OpenApi.dll
+C:\Users\ixwk\Desktop\plataforma\propuestas\sms_sudamericana\CoelsaAPI\Coelsa.API\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ixwk\Desktop\plataforma\propuestas\sms_sudamericana\CoelsaAPI\Coelsa.API\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ixwk\Desktop\plataforma\propuestas\sms_sudamericana\CoelsaAPI\Coelsa.API\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ixwk\Desktop\plataforma\propuestas\sms_sudamericana\CoelsaAPI\Coelsa.API\obj\Debug\netcoreapp3.0\Coelsa.API.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\ixwk\Desktop\plataforma\propuestas\sms_sudamericana\CoelsaAPI\Coelsa.API\obj\Debug\netcoreapp3.0\Coelsa.API.MvcApplicationPartsAssemblyInfo.cache
